@@ -36,6 +36,4 @@ namespace ToDoList.Models
 
 
   }
-
-  
 }

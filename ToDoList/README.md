@@ -1,4 +1,4 @@
-# _Higher/Lower Number Guesser_
+# _Shape Calculator_
 
 #### _single Webpage for Epicodus, 11.15.2018_
 
